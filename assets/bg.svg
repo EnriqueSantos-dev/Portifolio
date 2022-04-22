@@ -1,0 +1,161 @@
+<svg width="1440" height="780" viewBox="0 0 1440 780" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0_5_2)">
+<rect width="1440" height="780" fill="#171717"/>
+<rect x="265" y="291" width="26" height="26" fill="url(#pattern0)"/>
+<rect x="171" y="158" width="26" height="26" fill="url(#pattern1)"/>
+<rect x="265" y="537" width="26" height="26" fill="url(#pattern2)"/>
+<rect x="171" y="461" width="26" height="26" fill="url(#pattern3)"/>
+<rect x="265" y="39" width="26" height="26" fill="url(#pattern4)"/>
+<rect x="171" y="699" width="26" height="26" fill="url(#pattern5)"/>
+<rect x="754" y="304" width="26" height="26" fill="url(#pattern6)"/>
+<rect x="660" y="171" width="26" height="26" fill="url(#pattern7)"/>
+<rect x="754" y="550" width="26" height="26" fill="url(#pattern8)"/>
+<rect x="660" y="474" width="26" height="26" fill="url(#pattern9)"/>
+<rect x="754" y="52" width="26" height="26" fill="url(#pattern10)"/>
+<rect x="660" y="712" width="26" height="26" fill="url(#pattern11)"/>
+<rect x="1029" y="304" width="26" height="26" fill="url(#pattern12)"/>
+<rect x="935" y="171" width="26" height="26" fill="url(#pattern13)"/>
+<rect x="1029" y="550" width="26" height="26" fill="url(#pattern14)"/>
+<rect x="935" y="474" width="26" height="26" fill="url(#pattern15)"/>
+<rect x="1029" y="52" width="26" height="26" fill="url(#pattern16)"/>
+<rect x="935" y="712" width="26" height="26" fill="url(#pattern17)"/>
+<rect x="1243" y="304" width="26" height="26" fill="url(#pattern18)"/>
+<rect x="1149" y="171" width="26" height="26" fill="url(#pattern19)"/>
+<rect x="1243" y="550" width="26" height="26" fill="url(#pattern20)"/>
+<rect x="1149" y="474" width="26" height="26" fill="url(#pattern21)"/>
+<rect x="1243" y="52" width="26" height="26" fill="url(#pattern22)"/>
+<rect x="1149" y="712" width="26" height="26" fill="url(#pattern23)"/>
+<rect x="479" y="304" width="26" height="26" fill="url(#pattern24)"/>
+<rect x="385" y="171" width="26" height="26" fill="url(#pattern25)"/>
+<rect x="479" y="550" width="26" height="26" fill="url(#pattern26)"/>
+<rect x="385" y="474" width="26" height="26" fill="url(#pattern27)"/>
+<rect x="479" y="52" width="26" height="26" fill="url(#pattern28)"/>
+<rect x="385" y="712" width="26" height="26" fill="url(#pattern29)"/>
+<line x1="145" y1="-14" x2="145" y2="808" stroke="#333333" stroke-width="2"/>
+<line x1="326" y1="-12" x2="326" y2="810" stroke="#333333" stroke-width="2"/>
+<line x1="576" x2="576" y2="822" stroke="#333333" stroke-width="2"/>
+<line x1="846" x2="846" y2="822" stroke="#333333" stroke-width="2"/>
+<line x1="1116" x2="1116" y2="822" stroke="#333333" stroke-width="2"/>
+<line x1="1295" x2="1295" y2="822" stroke="#333333" stroke-width="2"/>
+<line x1="326" y1="146" x2="326" y2="226" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="576" y1="277" x2="576" y2="357" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="576" y1="277" x2="576" y2="357" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="846" y1="399" x2="846" y2="479" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="1116" y1="566" x2="1116" y2="646" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="576" y1="510" x2="576" y2="590" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="846" y1="658" x2="846" y2="738" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M846 91V171" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M1116 249V329" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M1295 399V479" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M1295 744V824" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M1295 91C1295 122.242 1295 139.758 1295 171" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<path d="M1116 -10V70" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="576" y1="744" x2="576" y2="824" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="576" x2="576" y2="80" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="326" y1="447" x2="326" y2="527" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="145" y1="-1" x2="145" y2="79" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="145" y1="283" x2="145" y2="363" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+<line x1="145" y1="622" x2="145" y2="702" stroke="#931F1F" stroke-opacity="0.5" stroke-width="2"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern3" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern4" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern5" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern6" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern7" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern8" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern9" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern10" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern11" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern12" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern13" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern14" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern15" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern16" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern17" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern18" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern19" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern20" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern21" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern22" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern23" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern24" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern25" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern26" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern27" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image3_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern28" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image4_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<pattern id="pattern29" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image5_5_2" transform="scale(0.0384615)"/>
+</pattern>
+<clipPath id="clip0_5_2">
+<rect width="1440" height="780" fill="white"/>
+</clipPath>
+<image id="image0_5_2" width="26" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAZJJREFUSEvtlS1MA0EQhd9IbG0tFkslSJDQOQMWi8eROnxtNWanrQQJshbs2drayiGv2UuWY+8HQqo6yaUnpvvNvNl5J9hTyJ44OID+rPSvpCuK4hgAH8YGQBlC4G9ndIKKojgCcObu5wD4Xo9SRBYhhHUbrRVEiLvfAxgmh5TxfQCAD2Pr7sv5fL5qgjWCapAtgFcze0sPopTufl0VIiLTEEJVyDdmI0hVLwFcsNp4QFaaWNBdnN3GzCa5rtpAT3Emy3on9YMi7JH57v6ckzALipJwNlsze+i8UgBU9RbAKYBPM5vV/5MFJbKVZjbtAxqPxyMRueGVz/3n30CJCtk5ZUFJdY3DrXfZpULTjAbuzuGi7cqmMFVlPveKa/DSa0ZMUlVeBtrNOsK4S9lQVbrGVSxskrOltoUdRleg7dBmZiGEH7AUAuDdzBa/2iMmJ7Pa2YyIfBAaDZWuMEpsKHutK2gfU+WB3JHK13IFN3bSG1Qlxu5OolsQuvtMiMiqz6eis6M+y9on5wDqo1I2Z2/SfQFdcLobqFFVzQAAAABJRU5ErkJggg=="/>
+<image id="image1_5_2" width="26" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAchJREFUSEvFVSFQw0AQ3JO1tbW1WCpBgmR6b8BisQyOweKYWiyYT7EgQVJbW1tJbeUz27nPpOknbdNSfiYu/3u7t7cnONCRA+FgayBVvWFxIvIDYGbf2Hs/ryu6CdBT4sG5iHwC+KoC3AVoBKANoFsAJuDAez8tF9MYyB6cOOdaIYRTACcAWgCSYDsDxcqdc+0QAvtHljMReSzKuDcgAjrnOgZGZh9Zlr3HQvYKxEf7/X5PRC5NQrKiMxvZe+G62KOUpVX13iTMWe2dEYFVlea4ADDJsmzwZ4ycc13rFZnf0RQ5I5v44kzUplOddMZqSeJ/AboGcARgJCLfG4TttC7fVLWS0TmAs2IDNwBL/mLzdGvufKDFc+kK/s8b2BRIVa8AHCddZ5lF/69M9TaAFkV8ByGE1+FwuGjD0hypapSPwZhP9aZAVizzrgNgas5c7KkloBIr/viSivwUMO9ySEMIvVSCryRDKRjJ7M17z91TeWxA2Rcm95JktaFqYLT74qLFPjfoJDJkL0wipgAjh4eFUYVxuarKrEsstHWtmojIc+NVbi5ixRzmyDCCstHTEMIouquqmq3S2+TK5Yy7Zh3VFddtcqHpP7//qRgqZzEwcgAAAABJRU5ErkJggg=="/>
+<image id="image2_5_2" width="26" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAARVJREFUSEvt1TFywkAMBdCv0i0tOQeU3CFeVZyBljaHoKVOI3tSkitQcwbOQGcxmzGeBby7ssMwFLi0ZvRWWlkmPOmhJzl4Q6M7/TqtY+Zp0zQfdV3v+8rxcQAzEflJlZusyCdR1RWAgoi2InIIkzHzRFXXbXwvIt8xLAqFCIAjEW1E5HSbyDm39BX590QUxXohK3JBLdgdNBSxYlfQWMSCddB/kRzWQc65TwCL3KXmvtj2wH4S/dMN0VXrLJeaglJduRuGsViu9b3jPRTLIX/XEWuFFbMgScgHQwzAb1VVu5sVVKjql19Bqe2RhQJsGltBZVnOiWgRi18OZvpNMHPRt+dyox7GTdCQhIO39yOSvyt6SBfPO7nDG6eU7r0AAAAASUVORK5CYII="/>
+<image id="image3_5_2" width="26" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAXpJREFUSEvtlDFPwzAQhZ/Hrl1Zs/Y3wAgj6O4fsLKyItauXfsPfIIRRlhZu3btmrWj0UUXyyRp7IaqYsBSpLSR/d2d33sOZ1ruTBz8gyZPOo6OmS8ALCafNLyx9t5/6acIIqIHANWJQXDOLb33uxR0BeDWQDUAfaautuCdiCx/dKQ/kq5qq2R/LImI7gBcAtg751baTQ/EzLMQwhOAGYCNiKyPATFzFULQK9D1KiIf7f6ej5h5EUK4b6pwbu2935TArMhHAHMAWxFZpfsGDUtEClIFavvP3vvsCHN7BkG56rodlkzhYASNzTsFld7raNZ1FKR+6Em+VKmjIKtWVaSpET3RdkRE0Xsm5e0h4WTTW6MphKBq0vUuIm/6wsxz+1+t8CkiL2PqzILMyDcArk3yTaQQkcKbTq2bUWUWgQwWD1afmPtjluW8VgzqjKo9N47yZCDrKg3enjh+fUfpAZYAlYVuccIXj65r0pJYymZdbt5Tvk/q6E+DvgHhabobhiMXdAAAAABJRU5ErkJggg=="/>
+<image id="image4_5_2" width="26" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAAXtJREFUSEu9liFvw0AMhZ9haWlpaXHhBje45kw2uj+y3zA6uhEfb+EKS1daWlpaeJMjR8qyNHe5RAmJokj+8pz37CNMdNFEHLSCmHkRQtgQ0Y+I7Mf4mFaQc+4RwIMBTkT0ISLXIcAUkNa/EtGniBxzYTHQxQrP7X40YG91MVDZthDCC4CVwS4GO/VRFwV579+1IDOvDDjTZyL6BrBL/XfJIIPNQgivAJam5mzqzjF1vUBVMefcvbmyUrcVkV0XLAtk6uamblFTpzGoDPSHmw2qqatnTmOg6v6FfDDI1OkkUWeW6ojoICJfdUmjgLSgc24D4K6KgPf+bVQQM+u/UjWdThykqOk+zZX3ftvmviwQM2uemtNCHXczT71BzQkBYG9O65x/ySBVAeAphLC21qiVVUXSzEsCMfPSWpU9xaMgANr3yrbZeykGqhtIV4Yuv9YRM3SoltvVbKtrIftqVVQUxZqInrVtqWsg9gU3j1t6EurKRaxw8/1k57pf677qG50v6qwAAAAASUVORK5CYII="/>
+<image id="image5_5_2" width="26" height="26" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAaCAYAAACpSkzOAAAAAXNSR0IArs4c6QAAANtJREFUSEvt1LENAjEMBVC7vJaWlhlgkMQNzEBLyxDMQBWLHWjZgxkojYyCFCEgjnO6ApHeecq3HYSJDk7kwB9yJ22OjojmqqSUrh7NBCkiIlsFEPHgwaoQEc1EZAcAQ37JzYNVIb08xrgBgGURWTNmgsbAzFAv1gT1YM2QF3NBedx1EstzZubTpx1rhoqdeo673n1h5uO3RW6CvMhj0a3fSQ9ihnoRE0REg4jsiy/I1JPXpEzRhRBWiLjOxdXGv2uHCdLCjC1q0zXaeFuHxxWd9/KyzhxdL/Z70B00bmwbaz78lwAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>
